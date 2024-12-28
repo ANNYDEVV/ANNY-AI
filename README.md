@@ -7,6 +7,13 @@ Shill AI is a cutting-edge AI-driven investment platform that transforms how cry
 ### **AI-Driven Trading**
 Shill AI leverages advanced AI models to analyze user-submitted investment ideas on Twitter. If the AI determines that the investment thesis has merit, trades are autonomously executed on the Solana blockchain. Every decision is transparent, with trades recorded immutably on-chain for all token holders to see.
 
+### **Initial Trading Balance and Goals**
+Shill AI begins its trading journey with an initial balance of 1 SOL. Using its advanced algorithms and autonomous trading strategies, it aims to:
+- Grow to **1000 SOL** within two weeks.
+- Reach **5100 SOL** (approximately $1 million USD) within three months.
+
+This aggressive growth trajectory positions Shill AI to become the **first AI memecoin trading millionaire**, marking a groundbreaking moment in crypto history. This achievement is poised to generate massive global viral news, driving unprecedented attention to the $SHILL token and exponentially increasing its value.
+
 ### **Community Governance**
 $SHILL token holders are at the core of Shill AI’s decision-making process. Governance is managed through a decentralized voting system where holders can:
 - Adjust AI trading parameters.
@@ -28,6 +35,8 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 
 5. **Proven Development Team**: Backed by experienced developers and AI specialists, Shill AI is designed to set new standards in decentralized finance (DeFi).
 
+6. **Massive Viral Potential**: Becoming the first AI to achieve millionaire status through memecoin trading will capture global attention, making $SHILL one of the most talked-about tokens in the crypto world.
+
 ## Tokenomics
 
 - **Token Name**: Shill Token
@@ -41,7 +50,7 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 ## How It Works
 
 1. **Submit Investment Theses**:
-   Users submit their investment ideas via Twitter by tagging Shill AI @Shillcoinai or replying under it's post's.
+   Users submit their investment ideas via Twitter with a specific hashtag monitored by Shill AI.
 
 2. **AI Evaluation**:
    The AI analyzes the submitted theses based on sentiment, market trends, and other relevant factors.
@@ -55,7 +64,7 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 ## Getting Started
 
 1. **Buy $SHILL**:
-   Purchase $SHILL tokens on supported exchanges.
+   Purchase $SHILL tokens on supported exchanges or via the platform.
 
 2. **Participate in Governance**:
    Use your $SHILL tokens to vote on proposals and influence the AI’s trading parameters.
@@ -79,8 +88,9 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 
 Be part of a groundbreaking platform that merges AI innovation with decentralized finance. With $SHILL, you’re not just investing in a token—you’re investing in the future of AI-driven trading.
 
-- **Telegram**: [Join our community](https://t.me/ShillAiPortal)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/ShillcoinAI)
+- **Website**: [shillai.com](https://shillai.com)
+- **Telegram**: [Join our community](https://t.me/ShillAI)
+- **Twitter**: [Follow us on Twitter](https://twitter.com/ShillAI)
 - **GitHub**: [View the code](https://github.com/Shill-Ai/SHILLAI)
 
 ---
