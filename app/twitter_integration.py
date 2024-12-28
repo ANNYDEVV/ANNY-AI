@@ -15,5 +15,3 @@ class TwitterAPI:
         """Post an update to Twitter."""
         self.api.create_tweet(text=message)
 ```
-
----
