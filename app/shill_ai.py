@@ -42,5 +42,3 @@ if __name__ == "__main__":
     shill_ai = ShillAI("x.com/shillcoinai", "8ruvf7BjkyT5GorxWyZ8GvQMaLQ5x1FvTrm9XAtLgSHZ", "https://api.mainnet-beta.solana.com")
     shill_ai.process_mentions()
 ```
-
----
