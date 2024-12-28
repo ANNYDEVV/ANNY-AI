@@ -1,6 +1,6 @@
 # Shill AI ($SHILL)
 
-Shill AI is a cutting-edge AI-driven investment platform that transforms how cryptocurrency investment decisions are made. By harnessing the power of artificial intelligence and blockchain technology, Shill AI evaluates investment theses submitted on Twitter and autonomously executes trades on the Solana blockchain. With transparency, community governance, and a unique AI-centric approach, $SHILL token holders can actively shape the future of decentralized trading.
+Shill AI is a cutting-edge AI-driven investment platform that transforms how cryptocurrency investment decisions are made. By harnessing the power of artificial intelligence and blockchain technology, Shill AI evaluates investment theses submitted to it's Twitter account and autonomously executes trades on the Solana blockchain. With transparency, community governance, and a unique AI-centric approach, $SHILL token holders can actively shape the future of decentralized trading.
 
 ## Key Highlights
 
