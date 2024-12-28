@@ -10,7 +10,7 @@ Shill AI leverages advanced AI models to analyze user-submitted investment ideas
 ### **Initial Trading Balance and Goals**
 Shill AI begins its trading journey with an initial balance of 1 SOL. Using its advanced algorithms and autonomous trading strategies, it aims to:
 - Grow to **1000 SOL** within two weeks.
-- Reach **5100 SOL** (approximately $1 million USD) within three months.
+- Reach **5000+ SOL** (approximately $1 million USD) within three months.
 
 This aggressive growth trajectory positions Shill AI to become the **first AI memecoin trading millionaire**, marking a groundbreaking moment in crypto history. This achievement is poised to generate massive global viral news, driving unprecedented attention to the $SHILL token and exponentially increasing its value.
 
