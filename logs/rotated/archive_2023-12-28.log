@@ -1,0 +1,21 @@
+2024-12-27 23:59:59,999 - app - INFO - Log rotation initiated. Archiving logs.
+2024-12-27 23:50:00,456 - app - ERROR - Failed to process Twitter API request: Rate limit exceeded.
+2024-12-27 23:40:32,789 - trading_logic - ERROR - Transaction failed for address: 8ruvf7BjkyT5GorxWyZ8GvQMaLQ5x1FvTrm9XAtLgSHZ. Reason: Insufficient funds.
+2024-12-27 23:35:21,123 - staking_dashboard - INFO - User staked 100.0 $SHILL. Address: 0xDEF456
+2024-12-27 23:25:10,678 - ai_evaluation - INFO - Analyzing tweet: "Ethereum will flip Bitcoin by 2025."
+2024-12-27 23:15:45,345 - community_engagement - INFO - Community event participation increased: "Memecoin Madness".
+2024-12-27 23:10:00,890 - middleware - INFO - Authentication successful for API request from IP 192.168.1.10.
+Key Features of Archived Logs
+Timestamp: Each entry retains the timestamp for event tracking.
+Source Component: Identifies which module generated the log (e.g., app, trading_logic).
+Severity Level: Includes INFO, ERROR, or DEBUG to indicate log importance.
+Message Details: Describes actions, errors, or significant events.
+How Archived Logs Are Generated
+Log Rotation:
+
+Implemented using a logging library (e.g., Python’s logging.handlers.RotatingFileHandler).
+Automatically moves old logs to the rotated/ directory when they reach a size or time threshold.
+Retention Policy:
+
+Keep a set number of archives (e.g., 7 days of logs).
+Automatically delete the oldest logs to save storage.
