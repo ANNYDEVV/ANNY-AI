@@ -1,0 +1,2 @@
+import joblib
+joblib.dump(trained_pipeline, 'data/models/ai_model.pkl')
