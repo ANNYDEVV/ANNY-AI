@@ -1,9 +1,6 @@
 # **Shill AI ($SHILL)**  
 Revolutionizing cryptocurrency investment with cutting-edge AI and blockchain technology.
 
- ![Shill AI Headshot](assets/SHILL_HEADSHOT.png) 
-*Meet Shill AI: Your AI-powered investment partner.*
-
 ---
 
 ## **What is Shill AI?**  
