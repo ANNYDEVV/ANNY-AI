@@ -1,0 +1,8 @@
+{
+    "latest_processed_tweet_id": 1234567890,
+    "last_reward_distribution": "2024-12-28T12:00:00",
+    "staker_snapshot": [
+        {"address": "0xABC123", "staked_amount": 100.0},
+        {"address": "0xDEF456", "staked_amount": 200.0}
+    ]
+}
