@@ -1,6 +1,6 @@
 # Shill AI ($SHILL)
 
-Shill AI is a cutting-edge AI-driven investment platform that transforms how cryptocurrency investment decisions are made. By harnessing the power of artificial intelligence and blockchain technology, Shill AI evaluates investment theses submitted to it's Twitter account and autonomously executes trades on the Solana blockchain. With transparency, community governance, and a unique AI-centric approach, $SHILL token holders can actively shape the future of decentralized trading.
+Shill AI is a cutting-edge AI-driven investment platform that transforms how cryptocurrency investment decisions are made. By harnessing the power of artificial intelligence and blockchain technology, Shill AI evaluates investment theses submitted to its Twitter account and autonomously executes trades on the Solana blockchain. With transparency, community governance, and a unique AI-centric approach, $SHILL token holders can actively shape the future of decentralized trading.
 
 ## Key Highlights
 
@@ -37,6 +37,8 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 
 6. **Massive Viral Potential**: Becoming the first AI to achieve millionaire status through memecoin trading will capture global attention, making $SHILL one of the most talked-about tokens in the crypto world.
 
+7. **Future Staking and Revenue Sharing**: $SHILL holders will be able to stake their tokens and earn revenue sharing in $SOL, creating an additional layer of passive income and incentivizing long-term holding.
+
 ## Tokenomics
 
 - **Token Name**: Shill Token
@@ -45,7 +47,9 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 - **Use Cases**:
   - Governance voting.
   - Staking for rewards.
+  - Revenue sharing in $SOL for staked tokens.
   - Access to premium features within the platform.
+  - Purchase access to custom AI trading bots that allow the public to automate their own trades. These custom bots will be exclusively available for purchase with $SHILL tokens, further increasing the token’s utility and value.
 
 ## How It Works
 
@@ -69,7 +73,10 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 2. **Participate in Governance**:
    Use your $SHILL tokens to vote on proposals and influence the AI’s trading parameters.
 
-3. **Stay Informed**:
+3. **Stake $SHILL**:
+   Stake your tokens to earn passive income through revenue sharing in $SOL.
+
+4. **Stay Informed**:
    Follow the platform’s performance and trade history through our dashboard.
 
 ## Security & Compliance
@@ -83,14 +90,15 @@ All trades and AI evaluations are verifiable, ensuring full accountability. The 
 - **Phase 2**: Community governance activation.
 - **Phase 3**: Expansion of AI capabilities and multi-chain support.
 - **Phase 4**: Strategic partnerships and global marketing campaigns.
+- **Phase 5**: Development and release of public AI trading bots, purchasable exclusively with $SHILL tokens, to allow users to automate their own trading strategies. This will significantly enhance the utility and adoption of $SHILL.
+- **Phase 6**: Launch of staking platform enabling $SHILL holders to earn revenue sharing in $SOL.
 
 ## Join the Revolution
 
 Be part of a groundbreaking platform that merges AI innovation with decentralized finance. With $SHILL, you’re not just investing in a token—you’re investing in the future of AI-driven trading.
 
-- **Website**: [shillai.com](https://shillai.com)
-- **Telegram**: [Join our community](https://t.me/ShillAI)
-- **Twitter**: [Follow us on Twitter](https://twitter.com/ShillAI)
+- **Telegram**: [Join our community](https://t.me/ShillAIPortal)
+- **Twitter**: [Follow us on Twitter](https://twitter.com/Shillcoinai)
 - **GitHub**: [View the code](https://github.com/Shill-Ai/SHILLAI)
 
 ---
