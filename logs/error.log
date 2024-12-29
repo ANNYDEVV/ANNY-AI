@@ -1,0 +1,41 @@
+2024-12-28 10:00:00,456 - app - ERROR - Failed to process Twitter API request: Rate limit exceeded.
+2024-12-28 10:05:32,789 - trading_logic - ERROR - Transaction failed for address: 8ruvf7BjkyT5GorxWyZ8GvQMaLQ5x1FvTrm9XAtLgSHZ. Reason: Insufficient funds.
+2024-12-28 10:15:21,123 - staking_dashboard - ERROR - Staking transaction failed for address: 0xABC123. Reason: Database connection error.
+2024-12-28 10:30:10,678 - ai_evaluation - ERROR - Failed to load AI pipeline: FileNotFoundError: ai_pipeline.pkl not found.
+2024-12-28 10:45:45,345 - community_engagement - ERROR - Community event creation failed: IntegrityError: Duplicate event name.
+2024-12-28 11:00:00,890 - middleware - ERROR - Authentication failed for API request. Reason: Invalid API token.
+2024-12-28 11:15:15,234 - revenue_sharing - ERROR - Reward distribution failed. Reason: Division by zero encountered.
+Key Features of error.log
+Timestamp:
+
+Each error entry includes a precise timestamp for debugging purposes.
+Source Component:
+
+Indicates the module or feature that caused the error (e.g., trading_logic, ai_evaluation).
+Error Type and Details:
+
+Logs the specific error type and additional context (e.g., Rate limit exceeded, FileNotFoundError).
+Use Case Coverage:
+
+Covers all critical areas of the application:
+Twitter API interactions.
+Trading logic and transactions.
+Staking dashboard and reward distribution.
+AI evaluation and pipeline management.
+Community engagement.
+How to Populate error.log
+Configure Logging:
+
+Ensure that the logging_config.py file directs error-level logs to error.log.
+Example:
+python
+Copy code
+error_handler = logging.FileHandler('logs/error.log')
+error_handler.setLevel(logging.ERROR)
+logging.getLogger().addHandler(error_handler)
+Integrate Logging:
+
+Include logging.error in try-except blocks for error handling in all modules.
+Monitor Regularly:
+
+Periodically review the error.log file to identify and resolve recurring issues.
