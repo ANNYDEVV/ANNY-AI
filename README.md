@@ -40,9 +40,9 @@ Shill AI sets itself apart with:
 - **Use Cases**: Governance voting, staking, revenue sharing, AI trading bots, and premium feature access.
 
 ### **Utility Highlights**  
-- **🗳 Governance**: Influence platform direction through voting.  
-- **💸 Staking**: Earn $SOL and other rewards by holding $SHILL.  
-- **🤖 AI Trading Bots**: Automate trading strategies, available exclusively for $SHILL holders.
+- **Governance**: Influence platform direction through voting.  
+- **Staking**: Earn $SOL and other rewards by holding $SHILL.  
+- **AI Trading Bots**: Automate trading strategies, available exclusively for $SHILL holders.
 
 ---
 
