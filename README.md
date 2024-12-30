@@ -39,14 +39,16 @@ This trajectory aims to make Shill AI the **first AI memecoin trading millionair
 
 ---
 
-## **Tokenomics**  
+## **Tokenomics:**  
 
-| **Property**       | **Details**                                                                                 |
-|---------------------|---------------------------------------------------------------------------------------------|
-| **Token Name**      | Shill Token                                                                                |
-| **Ticker**          | $SHILL                                                                                     |
-| **Blockchain**      | Solana                                                                                     |
-| **Use Cases**       | Governance voting, staking, revenue sharing, AI trading bots, and premium feature access.  |
+**Ticker:** 
+$SHILL
+
+**Blockchain:**
+Solana
+
+**Use Cases:**
+Governance voting, staking, revenue sharing, AI trading bots, and premium feature access.
 
 ### **Utility Highlights**  
 - **Governance Voting**: Influence platform direction.  
