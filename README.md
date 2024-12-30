@@ -100,8 +100,7 @@ Trade results are fully accessible and recorded on-chain for $SHILL holders to r
 
 Stay informed and join the community:  
 - **Telegram**: [Join our community](https://t.me/ShillAIPortal)  
-- **Twitter**: [Follow us for updates](https://twitter.com/Shillcoinai)  
-- **GitHub**: [Explore the code](https://github.com/Shill-Ai/SHILLAI)  
+- **Twitter**: [Follow us for updates](https://twitter.com/Shillcoinai)   
 
 ---
 
