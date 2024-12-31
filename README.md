@@ -100,7 +100,7 @@ All trades and performance metrics are publicly accessible via Nova Bot’s on-c
 
 Stay up to date and join the Nova Bot community:  
 - **Telegram**: [Join the discussion](https://t.me/NovaBotSolana)  
-- **Twitter**: [Follow us for updates](https://twitter.com/NovaBotSolana)  
+- **Twitter**: [Follow us for updates](https://twitter.com/NovaBot_SOL)  
 
 ---
 
